@@ -1,0 +1,11 @@
+
+Features
+--------
+  * collectd is able to collect the following data.
+    - vmload
+      Resource supply & demand - VMWare hypervisor-guest.
+      see <https://github.com/vmware/open-vm-tools/blob/master/open-vm-tools/toolbox/toolboxcmd-stat.c>
+          <https://communities.vmware.com/docs/DOC-9279>
+          <https://vdc-repo.vmware.com/vmwb-repository/dcr-public/677c283a-b308-4834-8fd4-11f22461d799/8db52ca4-19ae-46be-8802-1d0ac191aab2/doc/GUID-53033149-35AA-406F-B77C-95BBF376C7CA.html>
+          <http://www.vmware.com/files/pdf/techpaper/hpm-perf-vsphere55.pdf>
+
